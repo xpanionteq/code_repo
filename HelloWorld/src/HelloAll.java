@@ -6,6 +6,8 @@ public class HelloAll {
 		System.out.println("hello");
 		System.out.println("hello am seema ");
 		System.out.println("any one is tr ");
+		
+		System.out.println("sow here ");
 
 	}
 
